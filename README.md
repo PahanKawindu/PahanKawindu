@@ -28,20 +28,20 @@ I'm a passionate software developer and an undergraduate student at Uva Wellassa
 
 Here are some of my favorite projects:
 
-### 1. [Bidding Website](https://github.com/PahanKawindu/bidding-website)
+### 1. [Auction Website](https://github.com/PahanKawindu/WinIt)
 
 **Description**: Developed a dynamic bidding platform with a clean and user-friendly interface, facilitating seamless auctions for users.  
 **Technologies**: HTML, Tailwind CSS, JavaScript, JSP
 
-### 2. [Food Recipe App](https://github.com/PahanKawindu/food-recipe-app)
+### 2. [Food Recipe App](https://github.com/PahanKawindu/Foodly)
 
 **Description**: Designed and implemented a minimalistic and easy-to-navigate interface for a food recipe application, enhancing user accessibility and clarity.  
 **Technologies**: Flutter, Dart
 
-### 3. [Portfolio Website](https://github.com/PahanKawindu/portfolio-website)
+### 3. [Vehicle Service Management App](https://github.com/PahanKawindu/AutoQ)
 
-**Description**: Created a personal portfolio website to showcase projects and skills, emphasizing responsive design and smooth user interactions.  
-**Technologies**: React, HTML, CSS
+**Description**: Created a minimalistic and user-centric mobile app to manage vehicle queues in service center.  
+**Technologies**: Flutter, Dart
 
 ## 📊 GitHub Stats
 
@@ -50,7 +50,7 @@ Here are some of my favorite projects:
 
 ## 📈 Activity Graph
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=PahanKawindu&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=PahanKawindu&theme=react-dark)
 
 
 ## 🔗 Connect with Me
