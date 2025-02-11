@@ -28,17 +28,17 @@ I'm a passionate software developer and an undergraduate student at Uva Wellassa
 
 Here are some of my favorite projects:
 
-### 1. [Auction Website](https://github.com/pdgamage/winIt01)
+### 1. [WinIt - Auction Website](https://github.com/pdgamage/winIt01)
 
 **Description**: Developed a dynamic bidding platform with a clean and user-friendly interface, facilitating seamless auctions for users.  
 **Technologies**: HTML, Tailwind CSS, JavaScript, JSP
 
-### 2. [Food Recipe App](https://github.com/kavindaChathuranga/Foodly)
+### 2. [Foodly - Food Recipe App](https://github.com/kavindaChathuranga/Foodly)
 
 **Description**: Designed and developed Foodly, a user-friendly food recipe app that makes cooking easier and more enjoyable. With a beautifully crafted UI and a vast collection of categorized recipes, Foodly helps users discover, save, and cook delicious meals effortlessly. 
 **Technologies**: Flutter, Dart
 
-### 3. [Vehicle Service Management App](https://github.com/PahanKawindu/AutoQ)
+### 3. [AutoQ - Vehicle Service Management App](https://github.com/PahanKawindu/AutoQ)
 
 **Description**: We designed and developed AutoQ, a smart vehicle service management app that streamlines appointment bookings and real-time queue tracking. With an intuitive interface and seamless user experience, AutoQ ensures hassle-free service scheduling for both vehicle owners and service providers.  
 **Technologies**: Flutter, Dart, Firebase
