@@ -28,35 +28,27 @@ I'm a passionate software developer and an undergraduate student at Uva Wellassa
 
 Here are some of my favorite projects:
 
-### 1. [Auction Website](https://github.com/PahanKawindu/WinIt)
+### 1. [Auction Website](https://github.com/pdgamage/winIt01)
 
 **Description**: Developed a dynamic bidding platform with a clean and user-friendly interface, facilitating seamless auctions for users.  
 **Technologies**: HTML, Tailwind CSS, JavaScript, JSP
 
 ### 2. [Food Recipe App](https://github.com/kavindaChathuranga/Foodly)
 
-**Description**: Designed and implemented a minimalistic and easy-to-navigate interface for a food recipe application, enhancing user accessibility and clarity.  
+**Description**: Designed and developed Foodly, a user-friendly food recipe app that makes cooking easier and more enjoyable. With a beautifully crafted UI and a vast collection of categorized recipes, Foodly helps users discover, save, and cook delicious meals effortlessly. 
 **Technologies**: Flutter, Dart
 
 ### 3. [Vehicle Service Management App](https://github.com/PahanKawindu/AutoQ)
 
-**Description**: Created a minimalistic and user-centric mobile app to manage vehicle queues in service center.  
-**Technologies**: Flutter, Dart
+**Description**: We designed and developed AutoQ, a smart vehicle service management app that streamlines appointment bookings and real-time queue tracking. With an intuitive interface and seamless user experience, AutoQ ensures hassle-free service scheduling for both vehicle owners and service providers.  
+**Technologies**: Flutter, Dart, Firebase
 
-## 📊 GitHub Stats
 
-![PahanKawindu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PahanKawindu&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PahanKawindu&layout=compact&theme=radical)
-
-## 📈 Activity Graph
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=PahanKawindu&theme=react-dark)
 
 
 ## 🔗 Connect with Me
 
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/pahankawindu)
-- [![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?style=flat&logo=twitter)](https://twitter.com/PahanKawindu)
-- [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-brightgreen?style=flat&logo=google-chrome)](https://pahankawindu.github.io/)
+- [![Behance](https://img.shields.io/badge/Portfolio-Visit-brightgreen?style=flat&logo=google-chrome)](https://www.behance.net/pahankawindu)
 
 Feel free to explore my projects and connect with me!
