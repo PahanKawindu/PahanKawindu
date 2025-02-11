@@ -33,7 +33,7 @@ Here are some of my favorite projects:
 **Description**: Developed a dynamic bidding platform with a clean and user-friendly interface, facilitating seamless auctions for users.  
 **Technologies**: HTML, Tailwind CSS, JavaScript, JSP
 
-### 2. [Food Recipe App](https://github.com/PahanKawindu/Foodly)
+### 2. [Food Recipe App](https://github.com/kavindaChathuranga/Foodly)
 
 **Description**: Designed and implemented a minimalistic and easy-to-navigate interface for a food recipe application, enhancing user accessibility and clarity.  
 **Technologies**: Flutter, Dart
